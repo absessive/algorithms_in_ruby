@@ -1,2 +1,2 @@
-# algorithms_in_ruby
+# Algorithms in Ruby
 Common Algorithm problems solved in ruby
